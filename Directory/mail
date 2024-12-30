@@ -27,3 +27,22 @@ HOST-WILDCARD,immersive-translate.owenyoung.com
 HOST-WILDCARD,meta.com
 HOST-WILDCARD,vercel.app
 HOST-WILDCARD,sub.store
+HOST-WILDCARD,infinitypro-img.infinitynewtab.com,DIRECT
+HOST-WILDCARD,infinity-permanent.infinitynewtab.com,DIRECT
+HOST-WILDCARD,m.inftab.com,DIRECT
+HOST-WILDCARD,immersivetranslate.com,DIRECT
+HOST-WILDCARD,inftab.com,DIRECT
+HOST-WILDCARD,infinitynewtab.com,DIRECT
+HOST-WILDCARD,infinityicon.infinitynewtab.com,DIRECT
+HOST-WILDCARD,ws.infinitynewtab.com,DIRECT
+HOST-WILDCARD,api.infinitynewtab.com,DIRECT
+HOST-WILDCARD,s3.amazonaws.com,DIRECT
+HOST-WILDCARD,init.push.apple.com,DIRECT
+HOST-WILDCARD, push.apple.com,DIRECT
+HOST-WILDCARD,.push.apple.com,DIRECT
+HOST,api.push.apple.com,DIRECT
+HOST-WILDCARD,alldebrid.com,DIRECT 
+HOST-WILDCARD,alldebrid.de,DIRECT 
+HOST-WILDCARD,alldebrid.es,DIRECT 
+HOST-WILDCARD,alldebrid.fr,DIRECT 
+HOST-WILDCARD,alldebrid.it,DIRECT 
